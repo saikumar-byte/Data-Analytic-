@@ -1,0 +1,41 @@
+# Data files (add your dataset here, but don't commit large files)
+data/raw/*.csv
+data/processed/*.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tableau
+*.twb
+*.twbx
+*.tde
+
+# Power BI
+*.pbix
+
+# Temporary files
+*.tmp
+*.log
